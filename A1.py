@@ -1,12 +1,12 @@
 ####
 # Each team's file must define four tokens:
-#     team_name: a string
+#     team_name: Akeliahcb
 #     strategy_name: a string
 #     strategy_description: a string
 #     move: A function that returns 'c' or 'b'
 ####
 
-team_name = 'E1'
+team_name = 'A1'
 strategy_name = 'Betray'
 strategy_description = 'Always betray.'
     
